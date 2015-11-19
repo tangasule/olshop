@@ -1,6 +1,7 @@
 /**
  * Created by of907 on 2015/11/19.
  */
+
 $(function() {
     var e = $("#rocket-to-top"),
         t = $(document).scrollTop(),
