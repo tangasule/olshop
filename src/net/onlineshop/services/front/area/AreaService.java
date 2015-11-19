@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.area;import net.onlineshop.core.Services;import net.onlineshop.services.front.area.bean.Area;public interface AreaService extends Services<Area> {}

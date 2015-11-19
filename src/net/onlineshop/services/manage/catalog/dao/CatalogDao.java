@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.catalog.dao;import java.util.List;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.catalog.bean.Catalog;public interface CatalogDao extends DaoManager<Catalog> {	/**	 * @param string	 */	void deletes(List<String> list);}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.email.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.email.bean.Email;public interface EmailDao extends DaoManager<Email> {}

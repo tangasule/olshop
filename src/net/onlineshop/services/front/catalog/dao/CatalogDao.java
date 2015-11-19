@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.catalog.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.catalog.bean.Catalog;public interface CatalogDao extends DaoManager<Catalog> {}

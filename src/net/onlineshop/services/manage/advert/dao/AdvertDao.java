@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.advert.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.advert.bean.Advert;public interface AdvertDao extends DaoManager<Advert> {}

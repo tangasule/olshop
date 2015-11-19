@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.attribute_link;import net.onlineshop.core.Services;import net.onlineshop.services.front.attribute_link.bean.Attribute_link;public interface Attribute_linkService extends Services<Attribute_link> {	/**	 * @param oldAttr	 */	int deleteByCondition(Attribute_link oldAttr);}

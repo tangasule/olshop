@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.orderdetail.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.orderdetail.bean.Orderdetail;public interface OrderdetailDao extends DaoManager<Orderdetail> {	int selectCount(String orderID);}

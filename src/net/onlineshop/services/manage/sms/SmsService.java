@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.sms;import net.onlineshop.core.Services;import net.onlineshop.services.manage.sms.bean.Sms;public interface SmsService extends Services<Sms> {}

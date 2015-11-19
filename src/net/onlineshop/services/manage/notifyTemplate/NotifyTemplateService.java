@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.notifyTemplate;import net.onlineshop.core.Services;import net.onlineshop.services.manage.notifyTemplate.bean.NotifyTemplate;public interface NotifyTemplateService extends Services<NotifyTemplate> {}

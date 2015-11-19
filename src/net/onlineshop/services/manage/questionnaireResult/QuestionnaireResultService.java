@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.questionnaireResult;import net.onlineshop.core.Services;import net.onlineshop.services.manage.questionnaireResult.bean.QuestionnaireResult;public interface QuestionnaireResultService extends		Services<QuestionnaireResult> {}

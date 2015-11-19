@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.navigation.bean;import java.io.Serializable;import net.onlineshop.core.dao.page.PagerModel;public class Navigation extends net.onlineshop.services.common.Navigation implements Serializable {	private static final long serialVersionUID = 1L;	public void clear() {		super.clear();	}}

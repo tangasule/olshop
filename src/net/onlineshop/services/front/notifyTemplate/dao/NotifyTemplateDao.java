@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.notifyTemplate.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.notifyTemplate.bean.NotifyTemplate;public interface NotifyTemplateDao extends DaoManager<NotifyTemplate> {}

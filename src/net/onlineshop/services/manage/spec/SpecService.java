@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.spec;import net.onlineshop.core.Services;import net.onlineshop.services.manage.spec.bean.Spec;public interface SpecService extends Services<Spec> {}

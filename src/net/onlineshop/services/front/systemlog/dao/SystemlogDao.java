@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.systemlog.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.systemlog.bean.Systemlog;public interface SystemlogDao extends DaoManager<Systemlog> {}

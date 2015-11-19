@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.hotquery;import net.onlineshop.core.Services;import net.onlineshop.services.manage.hotquery.bean.Hotquery;public interface HotqueryService extends Services<Hotquery> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.attribute_link.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.attribute_link.bean.Attribute_link;public interface Attribute_linkDao extends DaoManager<Attribute_link> {	/**	 * @param e	 * @return	 */	int deleteByCondition(Attribute_link e);}

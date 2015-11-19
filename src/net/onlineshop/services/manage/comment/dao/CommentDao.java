@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.comment.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.comment.bean.Comment;public interface CommentDao extends DaoManager<Comment> {	int selectNotReplyCount();	void updateStatus(Comment c);}

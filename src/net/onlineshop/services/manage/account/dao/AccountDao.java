@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.account.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.account.bean.Account;public interface AccountDao extends DaoManager<Account> {}

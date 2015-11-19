@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.comment.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.comment.bean.Comment;public interface CommentDao extends DaoManager<Comment> {	int selectCount(String orderid);}

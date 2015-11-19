@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.keyvalue;import net.onlineshop.core.Services;import net.onlineshop.services.manage.keyvalue.bean.Keyvalue;public interface KeyvalueService extends Services<Keyvalue> {}

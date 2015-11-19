@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.orderdetail.dao;import java.util.List;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.orderdetail.bean.Orderdetail;import net.onlineshop.web.action.manage.report.ReportInfo;public interface OrderdetailDao extends DaoManager<Orderdetail> {	List<ReportInfo> reportProductSales(Orderdetail orderdetail);}

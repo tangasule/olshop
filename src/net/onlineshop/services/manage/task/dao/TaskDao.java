@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.task.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.task.bean.Task;public interface TaskDao extends DaoManager<Task> {}

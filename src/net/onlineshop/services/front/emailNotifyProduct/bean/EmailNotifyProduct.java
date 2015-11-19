@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.emailNotifyProduct.bean;import java.io.Serializable;import net.onlineshop.core.dao.page.PagerModel;public class EmailNotifyProduct extends		net.onlineshop.services.common.EmailNotifyProduct implements Serializable {	private static final long serialVersionUID = 1L;	public void clear() {		super.clear();	}}

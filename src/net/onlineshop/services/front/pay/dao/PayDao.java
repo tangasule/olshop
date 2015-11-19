@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.pay.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.pay.bean.Pay;public interface PayDao extends DaoManager<Pay> {}

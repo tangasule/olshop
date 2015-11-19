@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.systemSetting.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.systemSetting.bean.SystemSetting;public interface SystemSettingDao extends DaoManager<SystemSetting> {}

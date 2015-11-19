@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.ordership.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.ordership.bean.Ordership;public interface OrdershipDao extends DaoManager<Ordership> {}

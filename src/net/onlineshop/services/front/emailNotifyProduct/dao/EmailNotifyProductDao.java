@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.emailNotifyProduct.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductDao extends DaoManager<EmailNotifyProduct> {	int selectCount(EmailNotifyProduct ep);}

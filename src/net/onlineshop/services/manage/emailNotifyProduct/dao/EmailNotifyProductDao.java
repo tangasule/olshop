@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.emailNotifyProduct.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductDao extends DaoManager<EmailNotifyProduct> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.account;import net.onlineshop.core.Services;import net.onlineshop.services.manage.account.bean.Account;public interface AccountService extends Services<Account> {}

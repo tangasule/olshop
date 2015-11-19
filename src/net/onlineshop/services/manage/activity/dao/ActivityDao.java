@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.activity.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.activity.bean.Activity;public interface ActivityDao extends DaoManager<Activity> {}

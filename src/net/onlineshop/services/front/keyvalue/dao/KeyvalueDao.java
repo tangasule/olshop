@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.keyvalue.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.keyvalue.bean.Keyvalue;public interface KeyvalueDao extends DaoManager<Keyvalue> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.questionnaireItem.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.questionnaireItem.bean.QuestionnaireItem;public interface QuestionnaireItemDao extends DaoManager<QuestionnaireItem> {	int uniqeItem(QuestionnaireItem questionnaireItem);}

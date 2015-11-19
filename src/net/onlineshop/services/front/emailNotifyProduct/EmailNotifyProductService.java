@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.emailNotifyProduct;import net.onlineshop.core.Services;import net.onlineshop.services.front.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductService extends Services<EmailNotifyProduct> {	int selectCount(EmailNotifyProduct ep);}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.systemlog;import net.onlineshop.core.Services;import net.onlineshop.services.manage.systemlog.bean.Systemlog;public interface SystemlogService extends Services<Systemlog> {		/**	 * 根据账号查询最新的一次登陆记录	 * @return	 */	Systemlog selectFirstOne(String account);}

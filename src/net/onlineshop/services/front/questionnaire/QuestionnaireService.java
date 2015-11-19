@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.questionnaire;import net.onlineshop.core.Services;import net.onlineshop.services.front.questionnaire.bean.Questionnaire;public interface QuestionnaireService extends Services<Questionnaire> {}

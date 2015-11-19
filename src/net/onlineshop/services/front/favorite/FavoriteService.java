@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.favorite;import net.onlineshop.core.Services;import net.onlineshop.services.front.favorite.bean.Favorite;public interface FavoriteService extends Services<Favorite> {	int selectCount(Favorite favorite);}

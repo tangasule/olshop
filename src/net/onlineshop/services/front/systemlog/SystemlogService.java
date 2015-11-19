@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.systemlog;import net.onlineshop.core.Services;import net.onlineshop.services.front.systemlog.bean.Systemlog;public interface SystemlogService extends Services<Systemlog> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.orderlog;import net.onlineshop.core.Services;import net.onlineshop.services.front.orderlog.bean.Orderlog;public interface OrderlogService extends Services<Orderlog> {}

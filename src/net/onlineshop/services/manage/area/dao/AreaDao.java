@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.area.dao;import java.util.List;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.area.bean.Area;public interface AreaDao extends DaoManager<Area> {	void deleteAll();	List<Area> selectListByPcode(String pcode);	int getCount(Area area);}

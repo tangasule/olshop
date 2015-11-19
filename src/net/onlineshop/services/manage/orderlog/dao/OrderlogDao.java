@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.orderlog.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.orderlog.bean.Orderlog;public interface OrderlogDao extends DaoManager<Orderlog> {}

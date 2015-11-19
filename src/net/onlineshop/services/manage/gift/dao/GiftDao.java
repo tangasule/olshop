@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.gift.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.gift.bean.Gift;public interface GiftDao extends DaoManager<Gift> {}

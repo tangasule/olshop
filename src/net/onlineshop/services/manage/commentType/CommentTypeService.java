@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.commentType;import net.onlineshop.core.Services;import net.onlineshop.services.manage.commentType.bean.CommentType;public interface CommentTypeService extends Services<CommentType> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.questionnaireResult.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.questionnaireResult.bean.QuestionnaireResult;public interface QuestionnaireResultDao extends DaoManager<QuestionnaireResult> {}

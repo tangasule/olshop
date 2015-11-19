@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.orderdetail;import net.onlineshop.core.Services;import net.onlineshop.services.front.orderdetail.bean.Orderdetail;public interface OrderdetailService extends Services<Orderdetail> {}

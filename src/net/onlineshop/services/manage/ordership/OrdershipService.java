@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.ordership;import net.onlineshop.core.Services;import net.onlineshop.services.manage.ordership.bean.Ordership;public interface OrdershipService extends Services<Ordership> {}

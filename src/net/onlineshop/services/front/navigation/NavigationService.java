@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.navigation;import net.onlineshop.core.Services;import net.onlineshop.services.front.navigation.bean.Navigation;public interface NavigationService extends Services<Navigation> {}

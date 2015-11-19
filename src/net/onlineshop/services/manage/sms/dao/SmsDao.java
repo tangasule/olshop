@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.sms.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.sms.bean.Sms;public interface SmsDao extends DaoManager<Sms> {}

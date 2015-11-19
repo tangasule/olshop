@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.oss;import net.onlineshop.core.Services;import net.onlineshop.services.manage.oss.bean.Oss;public interface OssService extends Services<Oss> {}

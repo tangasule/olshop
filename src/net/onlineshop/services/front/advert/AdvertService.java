@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.advert;import net.onlineshop.core.Services;import net.onlineshop.services.front.advert.bean.Advert;public interface AdvertService extends Services<Advert> {}

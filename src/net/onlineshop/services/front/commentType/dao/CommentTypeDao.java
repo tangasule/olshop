@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.commentType.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.commentType.bean.CommentType;public interface CommentTypeDao extends DaoManager<CommentType> {}

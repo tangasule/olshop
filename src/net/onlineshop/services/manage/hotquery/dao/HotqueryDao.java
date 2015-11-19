@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.hotquery.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.hotquery.bean.Hotquery;public interface HotqueryDao extends DaoManager<Hotquery> {}

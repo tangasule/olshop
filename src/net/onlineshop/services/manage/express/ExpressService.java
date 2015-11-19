@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.express;import net.onlineshop.core.Services;import net.onlineshop.services.manage.express.bean.Express;public interface ExpressService extends Services<Express> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.emailNotifyProduct;import net.onlineshop.core.Services;import net.onlineshop.services.manage.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductService extends Services<EmailNotifyProduct> {	/**	 * 系统自动发送到货通知	 */	void autoNotify();}

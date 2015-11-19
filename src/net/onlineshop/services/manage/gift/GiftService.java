@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.gift;import net.onlineshop.core.Services;import net.onlineshop.services.manage.gift.bean.Gift;public interface GiftService extends Services<Gift> {}

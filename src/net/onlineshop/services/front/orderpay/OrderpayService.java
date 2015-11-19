@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.orderpay;import net.onlineshop.core.Services;import net.onlineshop.services.front.orderpay.bean.Orderpay;public interface OrderpayService extends Services<Orderpay> {}

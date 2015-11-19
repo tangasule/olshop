@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.area.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.area.bean.Area;public interface AreaDao extends DaoManager<Area> {}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.email.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.email.bean.Email;public interface EmailDao extends DaoManager<Email> {	void updateEmailInvalidWhenReg(Email email);}

@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.pay;import net.onlineshop.core.Services;import net.onlineshop.services.manage.pay.bean.Pay;public interface PayService extends Services<Pay> {}

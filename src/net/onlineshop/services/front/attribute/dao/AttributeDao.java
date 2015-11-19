@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.attribute.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.attribute.bean.Attribute;public interface AttributeDao extends DaoManager<Attribute> {	/**	 * @param e	 */	void deleteByPid(Attribute e);}

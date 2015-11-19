@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.orderpay.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.front.orderpay.bean.Orderpay;public interface OrderpayDao extends DaoManager<Orderpay> {}

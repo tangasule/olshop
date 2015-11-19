@@ -1,0 +1,1 @@
+package net.onlineshop.services.manage.oss.dao;import net.onlineshop.core.DaoManager;import net.onlineshop.services.manage.oss.bean.Oss;public interface OssDao extends DaoManager<Oss> {}

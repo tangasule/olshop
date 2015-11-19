@@ -1,0 +1,1 @@
+package net.onlineshop.services.front.systemSetting;import net.onlineshop.core.Services;import net.onlineshop.services.front.systemSetting.bean.SystemSetting;public interface SystemSettingService extends Services<SystemSetting> {}
