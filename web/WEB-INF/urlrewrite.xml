@@ -32,7 +32,7 @@
 		<from>/user/([a-zA-Z0-9]+).html</from>
 		<to last="true">/account!$1.action</to>
 	</rule>
-	
+
 	<!-- 订单管理 -->
 	<rule>
 		<from>/order/([a-zA-Z0-9]+).html</from>
